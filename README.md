@@ -36,4 +36,5 @@ You can install the required libraries using pip:
 
 ```bash
 pip install pygame numpy scikit-learn
-
+### How to Use
+- **KMeans and KNN:**
