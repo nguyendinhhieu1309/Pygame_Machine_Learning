@@ -4,6 +4,7 @@
 ![Numpy](https://img.shields.io/badge/Library-Numpy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/Library-Scikit--learn-orange?style=for-the-badge&logo=scikit-learn)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)
+
 This repository provides interactive visualizations of K-Nearest Neighbors (KNN) and KMeans clustering algorithms implemented using Python's `pygame` library. The tool enables users to explore how both algorithms work by visualizing the clustering and classification processes in real-time, along with linear regression visualizations.
 
 ## Features
